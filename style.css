@@ -73,7 +73,7 @@ body {
         text-align: center;
     }
     .carousel-caption {
-        bottom: 250px;
+        bottom: 280px;
     }
     .carousel-caption h5 {
         font-size: 30px;
@@ -96,3 +96,7 @@ body {
     }
    
 }
+@media only screen and (max-width:576px) {
+    .carousel-caption h5 {
+        font-size: 24px;
+    }
