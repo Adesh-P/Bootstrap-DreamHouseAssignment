@@ -86,4 +86,13 @@ body {
     .carousel-caption a {
         padding: 7px 8px;
     }
+    .section-padding {
+        padding: 25px 0;
+    }
+}
+@media only screen and (max-width:992px) {
+    .portfolio img {
+        width: 100%;
+    }
+   
 }
